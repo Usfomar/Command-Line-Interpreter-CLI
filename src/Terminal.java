@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 
-
+//The terminal is the class that perform user commands get the list from the parser and do the command with its arguments what in the same list
 
 public class Terminal {
     Parser parser = new Parser();
